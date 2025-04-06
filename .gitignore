@@ -8,6 +8,10 @@ __pycache__/
 *$py.class
 
 notebooks/datasets
+data/
+
+*.dot
+
 
 # C extensions
 *.so
